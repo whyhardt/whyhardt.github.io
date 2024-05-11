@@ -1,0 +1,19 @@
+site_name: Daniel Weinhardt
+theme:
+  name: 'material'
+  search: false
+  palette:
+    primary: teal
+    accent: light blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  nav:
+    - Home: 'AboutMe.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/whyhardt
+
