@@ -1,7 +1,7 @@
 # About me
 
-<div style="display: flex;">
-  <img src="https://github.com/whyhardt/whyhardt.github.io/blob/main/resources/face.png?raw=true" alt="Your Image" width="300">
+<div style="display: flex; align-items: flex-end;">
+  <img src="https://github.com/whyhardt/whyhardt.github.io/blob/main/resources/face.png?raw=true" alt="Face Image" width="300">
   
   <p style="margin-left: 30px;">
   <div style="text-align: justify;">As a PhD Student and research associate in the Computational Neuroscience Group at Osnabrueck University's <a href="https://www.ikw.uni-osnabrueck.de/en/home.html">Institute of Cognitive Science</a>, I am deeply committed to fostering responsible and transparent research practices. This conviction stems from my belief that such principles are essential pillars of our global community.</div>

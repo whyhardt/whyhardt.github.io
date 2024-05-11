@@ -1,3 +1,5 @@
+# Teaching
+
 <div style="text-align: justify;">
 <br>
 In my teaching philosophy, I believe in transcending traditional, teacher-centered methods towards a more dynamic and practical approach. Rather than simply lecturing, I advocate for a hybrid learning model where students engage actively in exercises and applications. By incorporating hands-on experiences, such as programming tutorials, students not only absorb theoretical knowledge but also immediately apply it in real-world scenarios. This approach fosters a deeper understanding of concepts and enhances problem-solving skills. My goal is to empower students to become active participants in their own learning journey, equipping them with the tools and confidence to tackle challenges independently and creatively.

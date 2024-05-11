@@ -1,3 +1,5 @@
+# Publications
+
 ## Articles
 
 Williams*, C. C., Weinhardt*, D., Wirzberger, M., & Musslick, S. (2023)   
