@@ -2,7 +2,7 @@
 
 <div style="text-align: justify;">
 <br>
-My interest for responsible applications of artificial intelligence led me to the field of cognitive science, where all my effort is currently situated at. My research projects range from applications like an autonomous coach for training ones cognitive control in everyday's working scenarios to making neuroscience more efficient by augmenting EEG data saving resources like time and money and reserving scientists more capacity for the creative part. My current PhD project contributes directly to the mission of the <a href="https://musslick.github.io/AER_website/Research.html">Autonomous Empirical Research Group</a> by implementing a framework for the automated research of human reinforcement learning in a closed loop without the need for human intervention.
+My interest for responsible applications of artificial intelligence led me to the field of cognitive science. My research projects range from applications like an autonomous coach for training ones cognitive control in everyday's working scenarios to making neuroscience more efficient by augmenting EEG data saving resources like time and money and reserving scientists more capacity for the creative part. My current PhD project contributes directly to the mission of the <a href="https://musslick.github.io/AER_website/Research.html">Autonomous Empirical Research Group</a> by implementing a framework for the automated research of human reinforcement learning in a closed loop without the need for human intervention.
 <br><br>
 </div>
 
